@@ -8,8 +8,9 @@ A growing archive of projects as I learn about technology, software, and AI orch
 A mobile-first menu and pre-order flow for an NSA Care charity fundraiser with Kopi Kenangan. The project explores how a clear interface can connect a product catalog, order validation, and a spreadsheet-based handoff.
 
 - **Built with:** HTML, CSS, JavaScript, Google Apps Script, and Google Sheets
-- **Project files:** [`projects/nsa-care-kopi-kenangan`](projects/nsa-care-kopi-kenangan/)
-- **Status:** Front end and backend code included; live order submission needs local deployment configuration.
+- **Project overview:** [projects/nsa-care-kopi-kenangan](projects/nsa-care-kopi-kenangan/)
+- **Complete source:** [nsa-care-kopi-kenangan-source.zip](nsa-care-kopi-kenangan-source.zip)
+- **Status:** The overview and a full source archive are included. Live order submission needs local deployment configuration.
 
 ## Adding future projects
 
